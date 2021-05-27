@@ -405,7 +405,7 @@ class Runner(object):
 
     def evaluate_merge(self, input1,input2, labels,query_idx=1,spt_idx=2):
         # 将input1和input2特征融合，进行评估
-        # spt_idx=1:spt为rgb || spt_idx=2:spt为(rgb+rgb_modify) || spt_idx=2:spt为rgb_modify
+        # spt_idx=1:spt为rgb || spt_idx=2:spt为(rgb+rgb_modify) || spt_idx=3:spt为rgb_modify
         # query_idx=1:qry为rgb || query_idx=2:qry为rgb_modify
         nb_class = self.nb_class_test
         input1 = self.make_input(input1)
