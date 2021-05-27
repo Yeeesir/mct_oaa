@@ -95,7 +95,7 @@ if __name__ == '__main__':
     # ------------------
     model = Runner(nb_class_train=nb_class_train, nb_class_test=nb_class_test, input_size=3*84*84,
                    n_shot=n_shot, n_query=n_query, backbone=args.backbone,
-                   transductive_train=args.transductive, flip=args.flip, drop=args.drop)
+                   flip=args.flip, drop=args.drop)
     print('-----------------model building----------------')
 
     assert os.path.exists(save_path)
