@@ -1,0 +1,346 @@
+-----------------model building----------------
+Evaluating the best 1a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.27%
+100 episodes with 15-query accuracy: 1-shot =28.93%
+100 episodes with 15-query accuracy: 1-shot =29.19%
+100 episodes with 15-query accuracy: 1-shot =29.09%
+100 episodes with 15-query accuracy: 1-shot =29.81%
+100 episodes with 15-query accuracy: 1-shot =29.84%
+100 episodes with 15-query accuracy: 1-shot =28.12%
+100 episodes with 15-query accuracy: 1-shot =28.21%
+100 episodes with 15-query accuracy: 1-shot =28.15%
+100 episodes with 15-query accuracy: 1-shot =29.39%
+Accuracy_test 1a1-shot =29.00(0.48)
+std:7.6841539691902465
+Evaluating the best 1b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =27.77%
+100 episodes with 15-query accuracy: 1-shot =27.05%
+100 episodes with 15-query accuracy: 1-shot =29.13%
+100 episodes with 15-query accuracy: 1-shot =27.67%
+100 episodes with 15-query accuracy: 1-shot =27.32%
+100 episodes with 15-query accuracy: 1-shot =27.49%
+100 episodes with 15-query accuracy: 1-shot =27.05%
+100 episodes with 15-query accuracy: 1-shot =27.71%
+100 episodes with 15-query accuracy: 1-shot =28.64%
+100 episodes with 15-query accuracy: 1-shot =27.80%
+Accuracy_test 1b1-shot =27.76(0.47)
+std:7.587553668124309
+Evaluating the best 2a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =30.52%
+100 episodes with 15-query accuracy: 1-shot =30.72%
+100 episodes with 15-query accuracy: 1-shot =30.69%
+100 episodes with 15-query accuracy: 1-shot =29.35%
+100 episodes with 15-query accuracy: 1-shot =30.80%
+100 episodes with 15-query accuracy: 1-shot =30.03%
+100 episodes with 15-query accuracy: 1-shot =31.43%
+100 episodes with 15-query accuracy: 1-shot =31.77%
+100 episodes with 15-query accuracy: 1-shot =31.35%
+100 episodes with 15-query accuracy: 1-shot =30.53%
+Accuracy_test 2a1-shot =30.72(0.51)
+std:8.264459812958135
+Evaluating the best 2b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.40%
+100 episodes with 15-query accuracy: 1-shot =29.92%
+100 episodes with 15-query accuracy: 1-shot =28.88%
+100 episodes with 15-query accuracy: 1-shot =29.07%
+100 episodes with 15-query accuracy: 1-shot =30.65%
+100 episodes with 15-query accuracy: 1-shot =31.31%
+100 episodes with 15-query accuracy: 1-shot =30.21%
+100 episodes with 15-query accuracy: 1-shot =31.49%
+100 episodes with 15-query accuracy: 1-shot =30.59%
+100 episodes with 15-query accuracy: 1-shot =30.83%
+Accuracy_test 2b1-shot =30.23(0.52)
+std:8.32250218784391
+Evaluating the best 3a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.21%
+100 episodes with 15-query accuracy: 1-shot =29.68%
+100 episodes with 15-query accuracy: 1-shot =29.28%
+100 episodes with 15-query accuracy: 1-shot =27.93%
+100 episodes with 15-query accuracy: 1-shot =28.29%
+100 episodes with 15-query accuracy: 1-shot =29.05%
+100 episodes with 15-query accuracy: 1-shot =29.07%
+100 episodes with 15-query accuracy: 1-shot =29.87%
+100 episodes with 15-query accuracy: 1-shot =28.84%
+100 episodes with 15-query accuracy: 1-shot =28.21%
+Accuracy_test 3a1-shot =28.94(0.47)
+std:7.661358858293713
+Evaluating the best 3b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.59%
+100 episodes with 15-query accuracy: 1-shot =29.71%
+100 episodes with 15-query accuracy: 1-shot =29.27%
+100 episodes with 15-query accuracy: 1-shot =30.87%
+100 episodes with 15-query accuracy: 1-shot =29.83%
+100 episodes with 15-query accuracy: 1-shot =27.95%
+100 episodes with 15-query accuracy: 1-shot =27.97%
+100 episodes with 15-query accuracy: 1-shot =29.93%
+100 episodes with 15-query accuracy: 1-shot =30.15%
+100 episodes with 15-query accuracy: 1-shot =30.03%
+Accuracy_test 3b1-shot =29.53(0.52)
+std:8.321184103773266
+Evaluating the best 1a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.25%
+100 episodes with 15-query accuracy: 1-shot =29.75%
+100 episodes with 15-query accuracy: 1-shot =29.68%
+100 episodes with 15-query accuracy: 1-shot =28.83%
+100 episodes with 15-query accuracy: 1-shot =28.89%
+100 episodes with 15-query accuracy: 1-shot =27.21%
+100 episodes with 15-query accuracy: 1-shot =28.19%
+100 episodes with 15-query accuracy: 1-shot =29.27%
+100 episodes with 15-query accuracy: 1-shot =29.60%
+100 episodes with 15-query accuracy: 1-shot =28.27%
+Accuracy_test 1a1-shot =28.89(0.48)
+std:7.668822885191993
+Evaluating the best 1b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =27.65%
+100 episodes with 15-query accuracy: 1-shot =27.08%
+100 episodes with 15-query accuracy: 1-shot =28.13%
+100 episodes with 15-query accuracy: 1-shot =26.69%
+100 episodes with 15-query accuracy: 1-shot =28.60%
+100 episodes with 15-query accuracy: 1-shot =27.80%
+100 episodes with 15-query accuracy: 1-shot =25.76%
+100 episodes with 15-query accuracy: 1-shot =28.12%
+100 episodes with 15-query accuracy: 1-shot =27.99%
+100 episodes with 15-query accuracy: 1-shot =27.49%
+Accuracy_test 1b1-shot =27.53(0.46)
+std:7.4241406835329355
+Evaluating the best 2a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =31.85%
+100 episodes with 15-query accuracy: 1-shot =31.43%
+100 episodes with 15-query accuracy: 1-shot =30.63%
+100 episodes with 15-query accuracy: 1-shot =30.51%
+100 episodes with 15-query accuracy: 1-shot =29.97%
+100 episodes with 15-query accuracy: 1-shot =31.52%
+100 episodes with 15-query accuracy: 1-shot =30.53%
+100 episodes with 15-query accuracy: 1-shot =32.51%
+100 episodes with 15-query accuracy: 1-shot =29.01%
+100 episodes with 15-query accuracy: 1-shot =30.04%
+Accuracy_test 2a1-shot =30.80(0.52)
+std:8.463674011785766
+Evaluating the best 2b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =30.56%
+100 episodes with 15-query accuracy: 1-shot =29.75%
+100 episodes with 15-query accuracy: 1-shot =30.91%
+100 episodes with 15-query accuracy: 1-shot =30.05%
+100 episodes with 15-query accuracy: 1-shot =29.87%
+100 episodes with 15-query accuracy: 1-shot =28.44%
+100 episodes with 15-query accuracy: 1-shot =28.27%
+100 episodes with 15-query accuracy: 1-shot =29.28%
+100 episodes with 15-query accuracy: 1-shot =29.99%
+100 episodes with 15-query accuracy: 1-shot =29.91%
+Accuracy_test 2b1-shot =29.70(0.50)
+std:8.100021838104993
+Evaluating the best 3a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.08%
+100 episodes with 15-query accuracy: 1-shot =28.76%
+100 episodes with 15-query accuracy: 1-shot =28.77%
+100 episodes with 15-query accuracy: 1-shot =28.15%
+100 episodes with 15-query accuracy: 1-shot =29.15%
+100 episodes with 15-query accuracy: 1-shot =27.73%
+100 episodes with 15-query accuracy: 1-shot =29.16%
+100 episodes with 15-query accuracy: 1-shot =27.97%
+100 episodes with 15-query accuracy: 1-shot =29.47%
+100 episodes with 15-query accuracy: 1-shot =29.05%
+Accuracy_test 3a1-shot =28.63(0.48)
+std:7.690596393576306
+Evaluating the best 3b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.17%
+100 episodes with 15-query accuracy: 1-shot =28.12%
+100 episodes with 15-query accuracy: 1-shot =29.28%
+100 episodes with 15-query accuracy: 1-shot =29.00%
+100 episodes with 15-query accuracy: 1-shot =29.47%
+100 episodes with 15-query accuracy: 1-shot =28.83%
+100 episodes with 15-query accuracy: 1-shot =28.67%
+100 episodes with 15-query accuracy: 1-shot =28.63%
+100 episodes with 15-query accuracy: 1-shot =30.36%
+100 episodes with 15-query accuracy: 1-shot =30.05%
+Accuracy_test 3b1-shot =29.16(0.50)
+std:8.051674884422772
+Evaluating the best 1a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.33%
+100 episodes with 15-query accuracy: 1-shot =29.72%
+100 episodes with 15-query accuracy: 1-shot =29.32%
+100 episodes with 15-query accuracy: 1-shot =28.09%
+100 episodes with 15-query accuracy: 1-shot =28.99%
+100 episodes with 15-query accuracy: 1-shot =28.67%
+100 episodes with 15-query accuracy: 1-shot =29.09%
+100 episodes with 15-query accuracy: 1-shot =29.36%
+100 episodes with 15-query accuracy: 1-shot =29.07%
+100 episodes with 15-query accuracy: 1-shot =29.63%
+Accuracy_test 1a1-shot =29.03(0.48)
+std:7.6667362315684535
+Evaluating the best 1b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =27.29%
+100 episodes with 15-query accuracy: 1-shot =27.08%
+100 episodes with 15-query accuracy: 1-shot =28.59%
+100 episodes with 15-query accuracy: 1-shot =27.76%
+100 episodes with 15-query accuracy: 1-shot =29.21%
+100 episodes with 15-query accuracy: 1-shot =28.08%
+100 episodes with 15-query accuracy: 1-shot =29.17%
+100 episodes with 15-query accuracy: 1-shot =27.73%
+100 episodes with 15-query accuracy: 1-shot =28.75%
+100 episodes with 15-query accuracy: 1-shot =27.44%
+Accuracy_test 1b1-shot =28.11(0.46)
+std:7.474532880239257
+Evaluating the best 2a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =32.00%
+100 episodes with 15-query accuracy: 1-shot =31.92%
+100 episodes with 15-query accuracy: 1-shot =29.96%
+100 episodes with 15-query accuracy: 1-shot =30.15%
+100 episodes with 15-query accuracy: 1-shot =31.39%
+100 episodes with 15-query accuracy: 1-shot =30.37%
+100 episodes with 15-query accuracy: 1-shot =30.88%
+100 episodes with 15-query accuracy: 1-shot =30.44%
+100 episodes with 15-query accuracy: 1-shot =30.69%
+100 episodes with 15-query accuracy: 1-shot =30.67%
+Accuracy_test 2a1-shot =30.85(0.51)
+std:8.168968383121852
+Evaluating the best 2b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.65%
+100 episodes with 15-query accuracy: 1-shot =31.13%
+100 episodes with 15-query accuracy: 1-shot =28.77%
+100 episodes with 15-query accuracy: 1-shot =28.85%
+100 episodes with 15-query accuracy: 1-shot =29.39%
+100 episodes with 15-query accuracy: 1-shot =30.89%
+100 episodes with 15-query accuracy: 1-shot =31.25%
+100 episodes with 15-query accuracy: 1-shot =30.77%
+100 episodes with 15-query accuracy: 1-shot =30.79%
+100 episodes with 15-query accuracy: 1-shot =29.31%
+Accuracy_test 2b1-shot =29.98(0.50)
+std:8.058431498885017
+Evaluating the best 3a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.47%
+100 episodes with 15-query accuracy: 1-shot =29.16%
+100 episodes with 15-query accuracy: 1-shot =28.04%
+100 episodes with 15-query accuracy: 1-shot =29.35%
+100 episodes with 15-query accuracy: 1-shot =27.39%
+100 episodes with 15-query accuracy: 1-shot =27.71%
+100 episodes with 15-query accuracy: 1-shot =29.59%
+100 episodes with 15-query accuracy: 1-shot =29.19%
+100 episodes with 15-query accuracy: 1-shot =28.36%
+100 episodes with 15-query accuracy: 1-shot =28.52%
+Accuracy_test 3a1-shot =28.58(0.48)
+std:7.760340885983466
+Evaluating the best 3b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.00%
+100 episodes with 15-query accuracy: 1-shot =29.43%
+100 episodes with 15-query accuracy: 1-shot =30.09%
+100 episodes with 15-query accuracy: 1-shot =29.16%
+100 episodes with 15-query accuracy: 1-shot =28.37%
+100 episodes with 15-query accuracy: 1-shot =29.15%
+100 episodes with 15-query accuracy: 1-shot =29.13%
+100 episodes with 15-query accuracy: 1-shot =30.08%
+100 episodes with 15-query accuracy: 1-shot =29.84%
+100 episodes with 15-query accuracy: 1-shot =29.63%
+Accuracy_test 3b1-shot =29.29(0.49)
+std:7.907784519067271
+Evaluating the best 1a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.01%
+100 episodes with 15-query accuracy: 1-shot =28.73%
+100 episodes with 15-query accuracy: 1-shot =29.45%
+100 episodes with 15-query accuracy: 1-shot =28.65%
+100 episodes with 15-query accuracy: 1-shot =28.36%
+100 episodes with 15-query accuracy: 1-shot =28.68%
+100 episodes with 15-query accuracy: 1-shot =29.33%
+100 episodes with 15-query accuracy: 1-shot =29.16%
+100 episodes with 15-query accuracy: 1-shot =29.63%
+100 episodes with 15-query accuracy: 1-shot =28.61%
+Accuracy_test 1a1-shot =28.86(0.46)
+std:7.492857754777767
+Evaluating the best 1b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =27.48%
+100 episodes with 15-query accuracy: 1-shot =28.16%
+100 episodes with 15-query accuracy: 1-shot =27.59%
+100 episodes with 15-query accuracy: 1-shot =28.12%
+100 episodes with 15-query accuracy: 1-shot =28.15%
+100 episodes with 15-query accuracy: 1-shot =28.96%
+100 episodes with 15-query accuracy: 1-shot =28.72%
+100 episodes with 15-query accuracy: 1-shot =29.27%
+100 episodes with 15-query accuracy: 1-shot =27.43%
+100 episodes with 15-query accuracy: 1-shot =28.19%
+Accuracy_test 1b1-shot =28.21(0.46)
+std:7.418449553496861
+Evaluating the best 2a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =30.29%
+100 episodes with 15-query accuracy: 1-shot =29.65%
+100 episodes with 15-query accuracy: 1-shot =30.24%
+100 episodes with 15-query accuracy: 1-shot =30.97%
+100 episodes with 15-query accuracy: 1-shot =30.95%
+100 episodes with 15-query accuracy: 1-shot =30.21%
+100 episodes with 15-query accuracy: 1-shot =31.60%
+100 episodes with 15-query accuracy: 1-shot =28.23%
+100 episodes with 15-query accuracy: 1-shot =32.85%
+100 episodes with 15-query accuracy: 1-shot =31.09%
+Accuracy_test 2a1-shot =30.61(0.53)
+std:8.501100686904543
+Evaluating the best 2b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.43%
+100 episodes with 15-query accuracy: 1-shot =30.68%
+100 episodes with 15-query accuracy: 1-shot =30.88%
+100 episodes with 15-query accuracy: 1-shot =28.97%
+100 episodes with 15-query accuracy: 1-shot =31.15%
+100 episodes with 15-query accuracy: 1-shot =29.93%
+100 episodes with 15-query accuracy: 1-shot =30.01%
+100 episodes with 15-query accuracy: 1-shot =30.97%
+100 episodes with 15-query accuracy: 1-shot =29.65%
+100 episodes with 15-query accuracy: 1-shot =30.19%
+Accuracy_test 2b1-shot =30.09(0.49)
+std:7.912608784577801
+Evaluating the best 3a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =28.21%
+100 episodes with 15-query accuracy: 1-shot =28.47%
+100 episodes with 15-query accuracy: 1-shot =29.47%
+100 episodes with 15-query accuracy: 1-shot =29.64%
+100 episodes with 15-query accuracy: 1-shot =29.17%
+100 episodes with 15-query accuracy: 1-shot =29.07%
+100 episodes with 15-query accuracy: 1-shot =29.29%
+100 episodes with 15-query accuracy: 1-shot =28.84%
+100 episodes with 15-query accuracy: 1-shot =27.41%
+100 episodes with 15-query accuracy: 1-shot =28.79%
+Accuracy_test 3a1-shot =28.84(0.48)
+std:7.8204144249379635
+Evaluating the best 3b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.24%
+100 episodes with 15-query accuracy: 1-shot =27.93%
+100 episodes with 15-query accuracy: 1-shot =29.36%
+100 episodes with 15-query accuracy: 1-shot =29.60%
+100 episodes with 15-query accuracy: 1-shot =30.27%
+100 episodes with 15-query accuracy: 1-shot =29.60%
+100 episodes with 15-query accuracy: 1-shot =29.32%
+100 episodes with 15-query accuracy: 1-shot =28.97%
+100 episodes with 15-query accuracy: 1-shot =29.97%
+100 episodes with 15-query accuracy: 1-shot =30.99%
+Accuracy_test 3b1-shot =29.53(0.50)
+std:8.027205297542158
+Evaluating the best 1a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =29.23%
+100 episodes with 15-query accuracy: 1-shot =28.83%
+100 episodes with 15-query accuracy: 1-shot =28.16%
+100 episodes with 15-query accuracy: 1-shot =29.64%
+100 episodes with 15-query accuracy: 1-shot =29.43%
+100 episodes with 15-query accuracy: 1-shot =29.27%
+100 episodes with 15-query accuracy: 1-shot =29.60%
+100 episodes with 15-query accuracy: 1-shot =29.91%
+100 episodes with 15-query accuracy: 1-shot =29.07%
+100 episodes with 15-query accuracy: 1-shot =28.67%
+Accuracy_test 1a1-shot =29.18(0.47)
+std:7.587187328355321
+Evaluating the best 1b-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =27.57%
+100 episodes with 15-query accuracy: 1-shot =27.88%
+100 episodes with 15-query accuracy: 1-shot =27.41%
+100 episodes with 15-query accuracy: 1-shot =27.63%
+100 episodes with 15-query accuracy: 1-shot =27.84%
+100 episodes with 15-query accuracy: 1-shot =28.43%
+100 episodes with 15-query accuracy: 1-shot =27.92%
+100 episodes with 15-query accuracy: 1-shot =27.79%
+100 episodes with 15-query accuracy: 1-shot =28.40%
+100 episodes with 15-query accuracy: 1-shot =27.44%
+Accuracy_test 1b1-shot =27.83(0.45)
+std:7.255694591147011
+Evaluating the best 2a-1-shot model...
+100 episodes with 15-query accuracy: 1-shot =32.04%
+100 episodes with 15-query accuracy: 1-shot =31.11%
+100 episodes with 15-query accuracy: 1-shot =31.43%
+100 episodes with 15-query accuracy: 1-shot =31.69%
+100 episodes with 15-query accuracy: 1-shot =30.23%
+100 episodes with 15-query accuracy: 1-shot =30.87%

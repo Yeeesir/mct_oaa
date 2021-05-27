@@ -1,0 +1,80 @@
+-----------------model building----------------
+<utils.model_mul.Runner object at 0x7f240a511c18>
+Evaluating the best 1a-5-shot model...
+100 episodes with 15-query accuracy: 5-shot =73.15%
+100 episodes with 15-query accuracy: 5-shot =73.08%
+100 episodes with 15-query accuracy: 5-shot =73.28%
+100 episodes with 15-query accuracy: 5-shot =72.65%
+100 episodes with 15-query accuracy: 5-shot =71.97%
+100 episodes with 15-query accuracy: 5-shot =72.05%
+100 episodes with 15-query accuracy: 5-shot =74.36%
+100 episodes with 15-query accuracy: 5-shot =73.95%
+100 episodes with 15-query accuracy: 5-shot =74.49%
+100 episodes with 15-query accuracy: 5-shot =73.05%
+Accuracy_test 1a5-shot =73.20(0.55)
+Evaluating the best 1b-5-shot model...
+100 episodes with 15-query accuracy: 5-shot =76.11%
+100 episodes with 15-query accuracy: 5-shot =75.61%
+100 episodes with 15-query accuracy: 5-shot =75.12%
+100 episodes with 15-query accuracy: 5-shot =75.72%
+100 episodes with 15-query accuracy: 5-shot =75.47%
+100 episodes with 15-query accuracy: 5-shot =76.65%
+100 episodes with 15-query accuracy: 5-shot =74.45%
+100 episodes with 15-query accuracy: 5-shot =75.36%
+100 episodes with 15-query accuracy: 5-shot =74.16%
+100 episodes with 15-query accuracy: 5-shot =74.84%
+Accuracy_test 1b5-shot =75.35(0.57)
+Evaluating the best 2a-5-shot model...
+100 episodes with 15-query accuracy: 5-shot =74.04%
+100 episodes with 15-query accuracy: 5-shot =75.81%
+100 episodes with 15-query accuracy: 5-shot =74.39%
+100 episodes with 15-query accuracy: 5-shot =74.93%
+100 episodes with 15-query accuracy: 5-shot =74.48%
+100 episodes with 15-query accuracy: 5-shot =76.04%
+100 episodes with 15-query accuracy: 5-shot =75.05%
+100 episodes with 15-query accuracy: 5-shot =73.35%
+100 episodes with 15-query accuracy: 5-shot =73.00%
+100 episodes with 15-query accuracy: 5-shot =73.43%
+Accuracy_test 2a5-shot =74.45(0.56)
+Evaluating the best 2b-5-shot model...
+100 episodes with 15-query accuracy: 5-shot =75.45%
+100 episodes with 15-query accuracy: 5-shot =74.60%
+100 episodes with 15-query accuracy: 5-shot =75.81%
+100 episodes with 15-query accuracy: 5-shot =74.53%
+100 episodes with 15-query accuracy: 5-shot =74.96%
+100 episodes with 15-query accuracy: 5-shot =76.69%
+100 episodes with 15-query accuracy: 5-shot =75.37%
+100 episodes with 15-query accuracy: 5-shot =77.11%
+100 episodes with 15-query accuracy: 5-shot =74.77%
+100 episodes with 15-query accuracy: 5-shot =74.75%
+Accuracy_test 2b5-shot =75.41(0.57)
+Evaluating the best 3a-5-shot model...
+100 episodes with 15-query accuracy: 5-shot =73.80%
+100 episodes with 15-query accuracy: 5-shot =73.89%
+100 episodes with 15-query accuracy: 5-shot =74.05%
+100 episodes with 15-query accuracy: 5-shot =73.41%
+100 episodes with 15-query accuracy: 5-shot =71.97%
+100 episodes with 15-query accuracy: 5-shot =73.84%
+100 episodes with 15-query accuracy: 5-shot =73.36%
+100 episodes with 15-query accuracy: 5-shot =73.99%
+100 episodes with 15-query accuracy: 5-shot =73.93%
+100 episodes with 15-query accuracy: 5-shot =72.69%
+Accuracy_test 3a5-shot =73.49(0.56)
+Evaluating the best 3b-5-shot model...
+100 episodes with 15-query accuracy: 5-shot =76.52%
+100 episodes with 15-query accuracy: 5-shot =76.13%
+100 episodes with 15-query accuracy: 5-shot =74.57%
+100 episodes with 15-query accuracy: 5-shot =76.43%
+100 episodes with 15-query accuracy: 5-shot =75.03%
+100 episodes with 15-query accuracy: 5-shot =76.72%
+100 episodes with 15-query accuracy: 5-shot =75.84%
+100 episodes with 15-query accuracy: 5-shot =76.11%
+100 episodes with 15-query accuracy: 5-shot =74.39%
+100 episodes with 15-query accuracy: 5-shot =76.17%
+Accuracy_test 3b5-shot =75.79(0.54)
+1a mean:73.204, std:nan
+1b mean:75.34933333333333, std:nan
+2a mean:74.45199999999998, std:nan
+2b mean:75.40533333333333, std:nan
+3a mean:73.49466666666665, std:nan
+3b mean:75.79066666666665, std:nan
